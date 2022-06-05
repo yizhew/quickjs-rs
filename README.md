@@ -1,2 +1,2 @@
 # quickjs-rs
-rust port of bellard / quickjs
+rust port of bellard/quickjs
